@@ -1,2 +1,2 @@
 # C-sharp
-C# projects
+C#: Exploring its power in game development (Unity) and versatile applications in the .NET ecosystem.
